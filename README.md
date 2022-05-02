@@ -12,7 +12,7 @@ This is my way to show you a little bit of myself and my work.
 
 
 - :round_pushpin: Viña del Mar, Chile
-- :computer: I’m currently working on Exefire, developing on Laravel
+- :computer: I’m currently working at Jumpitt Labs, developing on Koa, Typescript.
 - :hearts: Full stack is love
 - :sparkler: I’m currently learning NextJs
 - :suspect: Ask me about anything 
