@@ -17,6 +17,7 @@ This is my way to show you a little bit of myself and my work.
 - :sparkler: I’m currently learning NextJs
 - :suspect: Ask me about anything 
 - 🧗‍♂️ Fun fact: I love bouldering
+- 🥓 I love Bacon
 
 ----
 
