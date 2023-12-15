@@ -12,9 +12,9 @@ This is my way to show you a little bit of myself and my work.
 
 
 - :round_pushpin: Viña del Mar, Chile
-- :computer: I’m currently working at Jumpitt Labs, developing on Koa, Typescript.
+- :computer: I’m currently working at KPaz, developing on Javascript😅.
 - :hearts: Full stack is love
-- :sparkler: I’m currently learning NextJs
+- :sparkler: I’m currently learning Flutter and Firebase
 - :suspect: Ask me about anything 
 - 🧗‍♂️ Fun fact: I love bouldering
 - 🥓 I love Bacon
